@@ -1,0 +1,7 @@
+opencv
+mediapipe
+
+'''
+    + Điều chỉnh hitbox cho phù hợp
+    + Cho phép gameover ở cột thứ 10
+'''
